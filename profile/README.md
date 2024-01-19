@@ -2,4 +2,10 @@
  <img src="./github-header-image.png" align="center" alt="Github Readme Stats"/>
 </p>
 
-<a align="center">EthPays Exchange</a>
+# EthPays Exchange
+- Cryptocurrency Exchange
+- Futures Trading
+- Vault Service
+- Payments API
+
+_Made in Switzerland_
