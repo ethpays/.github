@@ -8,4 +8,12 @@
 - Vault Service
 - Payments API
 
+## Public Repository
+- [Informations](https://github.com/ethpays/ethpays)
+
+## Developers
+- [anto6314](https://github.com/fanto6314)
+
+<br />
+
 _Made in Switzerland_
