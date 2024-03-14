@@ -10,6 +10,7 @@
 
 ## Public Repository
 - [Informations](https://github.com/ethpays/ethpays)
+- [Explorer](https://github.com/ethpays/explorer)
 
 ## Developers
 - [anto6314](https://github.com/fanto6314)
