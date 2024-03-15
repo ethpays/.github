@@ -11,6 +11,7 @@
 ## Public Repository
 - [Informations](https://github.com/ethpays/ethpays)
 - [Explorer](https://github.com/ethpays/explorer)
+- [Explorer Dashboard](https://github.com/ethpays/explorer-dashboard)
 
 ## Developers
 - [anto6314](https://github.com/fanto6314)
