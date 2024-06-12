@@ -1,5 +1,5 @@
 <p align="center">
- <img src="./github-header-image.png" align="center" alt="Github Readme Stats"/>
+ <img src="https://github.com/ethpays/.github/blob/main/github-header-image.png?raw=true" align="center" alt="Github Readme Stats"/>
 </p>
 
 # EthPays Exchange
